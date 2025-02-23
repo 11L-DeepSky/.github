@@ -16,7 +16,8 @@ Think of it as an extra pair of AI-powered eyes, scanning the skies while pilots
 🔹 **[deepsky-client](https://github.com/11L-DeepSky/deepsky-client)**  
   - The user-friendly interface for pilots to **visualize detected aircraft** in real-time.  
   - Built with React Native for **on-the-go airspace awareness**.  
-<img width="900" alt="image" src="https://github.com/user-attachments/assets/a3fea377-2119-4f67-bc7a-cf26aa7356cf" />
+<img width="950" alt="415975076-a3fea377-2119-4f67-bc7a-cf26aa7356cf-BB" src="https://github.com/user-attachments/assets/738e2458-e178-4bc3-bd12-021e8acf2220" />
+
 
 🔹 **[rtsp-frame-capture](https://github.com/11L-DeepSky/rtsp-frame-capture)**  
   - Captures and processes live RTSP **video** frames from cameras mounted on aircraft.
